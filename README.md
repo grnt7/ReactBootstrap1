@@ -5,6 +5,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Bootstrap Components that were used include Slider, Navbar and Footer.
+
 ## Available Scripts
 
 In the project directory, you can run:
