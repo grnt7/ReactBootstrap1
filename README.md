@@ -5,7 +5,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Bootstrap Components that were used included Slider.
+Created Responsive website following tutorial using React Js and Bootstrap 5. Bootstrap components used include Navbar and Slider.
 
 ## Available Scripts
 
